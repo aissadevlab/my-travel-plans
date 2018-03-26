@@ -55,5 +55,6 @@ h2 {
 }
 
 #paris {
+	display: block;
 	background-color: #d32f2f;
 }
